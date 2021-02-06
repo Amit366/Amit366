@@ -14,8 +14,17 @@
 
 ## Connect with me :
 
-[<img align="left" alt="https://the-awesome-profile-site.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/amit-mishra-28122a193" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Amit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alipun2002 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+<details>
+  ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit366&count_private=true)
+</details>
+
+[website]: https://the-awesome-profile-site.netlify.app/
+[instagram]: https://instagram.com/Alipun2002
+[linkedin]: https://www.linkedin.com/in/amit-mishra-28122a193
+
