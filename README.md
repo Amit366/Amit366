@@ -19,8 +19,11 @@
 [<img align="left" alt="Alipun2002 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
 
-
+## GitHub Stats
+<br />
  ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit366&count_private=true)
 
 
