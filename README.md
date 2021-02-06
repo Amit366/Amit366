@@ -20,9 +20,9 @@
 
 <br />
 
-<details>
-  ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit366&count_private=true)
-</details>
+
+ ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit366&count_private=true)
+
 
 [website]: https://the-awesome-profile-site.netlify.app/
 [instagram]: https://instagram.com/Alipun2002
