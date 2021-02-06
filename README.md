@@ -23,7 +23,6 @@
 <br />
 
 ## GitHub Stats
-<br />
  ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit366&count_private=true)
 
 
