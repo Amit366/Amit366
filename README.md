@@ -14,4 +14,8 @@
 
 ## Connect with me :
 
-[website]:https://the-awesome-profile-site.netlify.app/
+[<img align="left" alt="https://the-awesome-profile-site.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://www.linkedin.com/in/amit-mishra-28122a193" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alipun2002 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
