@@ -27,6 +27,6 @@
 
 
 [website]: https://the-awesome-profile-site.netlify.app/
-[instagram]: https://instagram.com/Alipun2002
+[instagram]: https://instagram.com/alipun2002/
 [linkedin]: https://www.linkedin.com/in/amit-mishra-28122a193
 
