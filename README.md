@@ -8,7 +8,10 @@
 - 👯 I’m looking to collaborate on any Android project.
 - 🤔 I’m looking for help with Full stack development.
 - 💬 Ask me about programming language like Java and C .
-- 📫 How to reach me: my gmail is akm43300@gmail.com . And also my linkedIn account is www.linkedin.com/in/amit-mishra-28122a193.
+- 📫 How to reach me: my gmail is akm43300@gmail.com .
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am crazy for cricket.
 
+## Connect with me :
+
+[website]:https://the-awesome-profile-site.netlify.app/
