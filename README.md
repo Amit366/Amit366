@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Amit366&color=orange)
 
   I am Amit Kumar Mishra. My interest lies in Android development and Full stack. I am fond of playing outdoor sports too. I am hardworking and sincere in whatever I do. I love learning new technologies.
 
