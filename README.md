@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Mishra</h1>
 <h3 align="center">My interest lies in Android development and Full stack. I am fond of playing outdoor sports too. I am hardworking and sincere in whatever I do. I love learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit366&label=Profile%20views&color=0e75b6&style=flat" alt="amit366" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit366&label=Profile%20views&color=orange&style=plastic" alt="amit366" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit366" alt="amit366" /></a> </p>
 
